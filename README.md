@@ -2,7 +2,7 @@
 <div>
 Bryan Henrique Gomes Rocha
 
-Gabriel Toledo Duartev>
+Gabriel Toledo Duarte
 </div>
 
 

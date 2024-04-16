@@ -1,4 +1,4 @@
-# Prototipo F-Zero
+# Protótipo F-Zero
 
 <H2>INTEGRANTES</H2>
 <div>
@@ -9,6 +9,8 @@ Gabriel Toledo Duarte
 </H3>
 
 </div>
+<div>
+Proposta de aplicativo referente ao jogo F-Zero todo o protótipo e mapa de navegação está explicado na Side Bar - "Mapa de Navegação"
+</div>
 
 
-Proposta de aplicativo referente ao jogo F-Zero

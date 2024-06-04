@@ -5,7 +5,9 @@
 <H3>
 Bryan Henrique Gomes Rocha
 
-Gabriel Toledo Duarte
+Gabriel Toledo Duarte (Saiu)
+
+Cauã Magalhães Leão
 </H3>
 
 </div>

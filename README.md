@@ -1,4 +1,4 @@
-# Protótipo F-Zero
+# Protótipo F-Zero/ APP
 
 ## Integrantes
 

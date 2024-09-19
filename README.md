@@ -5,7 +5,7 @@
 - Bryan Henrique Gomes Rocha (Saiu)
 - Gabriel Toledo Duarte (Saiu)
 - Cauã Magalhães Leão
-- Lucas arvalho Meira
+- Lucas Carvalho Meira
 
 ## Descrição
 

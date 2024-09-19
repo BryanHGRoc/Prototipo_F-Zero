@@ -12,4 +12,4 @@
 Proposta de aplicativo referente ao jogo F-Zero, todo o protótipo e mapa de navegação está explicado na Side Bar
 
 ## Wiki
-- <a href="https://github.com/BryanHGRoc/Prototipo_F-Zero/wiki">Wikw/Home</a>
+- <a href="https://github.com/BryanHGRoc/Prototipo_F-Zero/wiki">Wiki / Home</a>
